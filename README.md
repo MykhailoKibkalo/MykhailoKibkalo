@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MykhailoKibkalo/MykhailoKibkalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React project
 - 🌱 I’m currently learning React, Redux, Angular
 <!--- 👯 I’m looking to collaborate on ...
@@ -14,3 +9,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+<!--
+**MykhailoKibkalo/MykhailoKibkalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
