@@ -12,8 +12,3 @@
 <!--
 **MykhailoKibkalo/MykhailoKibkalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
 
-** My Activity:**
-<!--START_SECTION:waka-->
-```text
-```
-<!--END_SECTION:waka-->
